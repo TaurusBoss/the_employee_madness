@@ -1,0 +1,26 @@
+.EquipmentTable {
+  padding: 0.5rem;
+}
+
+.EquipmentTable a {
+  cursor: pointer;
+}
+
+.EquipmentTable .button{
+  font-size: 12px;
+  margin-left: 30px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 6px;
+  border-width: 3px;
+  padding-inline: 6px;
+  background-color: rgba(116, 181, 255, 0.959);
+}
+
+.EquipmentTable .button:hover {
+  background-color: white;
+}
+
+.EquipmentTable .list {
+  margin-left: 10px;
+}

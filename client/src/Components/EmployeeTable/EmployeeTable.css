@@ -1,0 +1,26 @@
+.EmployeeTable {
+  padding: 0.5rem;
+}
+
+.EmployeeTable a {
+  cursor: pointer;
+}
+
+.EmployeeTable .button{
+  font-size: 12px;
+  margin-left: 30px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 6px;
+  border-width: 3px;
+  padding-inline: 6px;
+  background-color: rgba(116, 181, 255, 0.959);
+}
+
+.EmployeeTable .button:hover {
+  background-color: white;
+}
+
+.EmployeeTable .list {
+  margin-left: 10px;
+}
